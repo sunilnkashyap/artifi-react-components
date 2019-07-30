@@ -1,0 +1,22 @@
+{
+  "name": "text-component",
+  "version": "1.0.0",
+  "description": "Artifi Text Component build with React and Redux State Management",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilnkashyap/artifi-react-text-component.git"
+  },
+  "keywords": [
+    "artifi"
+  ],
+  "author": "Sunil Kashyap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunilnkashyap/artifi-react-text-component/issues"
+  },
+  "homepage": "https://github.com/sunilnkashyap/artifi-react-text-component#readme"
+}
