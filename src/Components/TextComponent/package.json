@@ -1,6 +1,6 @@
 {
   "name": "artifi-react-text-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Artifi Text Component build with React and Redux State Management",
   "main": "index.tsx",
   "scripts": {
