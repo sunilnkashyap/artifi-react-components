@@ -1,0 +1,29 @@
+{
+  "name": "text-component-2",
+  "version": "0.0.0",
+  "description": "test",
+  "keywords": [
+    "artifi"
+  ],
+  "author": "Sunil Kashyap <sunilnkashyap@gmail.com>",
+  "homepage": "https://github.com/sunilnkashyap/artifi-react-text-component#readme",
+  "license": "ISC",
+  "main": "src/Component/TextComponent2",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilnkashyap/artifi-react-text-component.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sunilnkashyap/artifi-react-text-component/issues"
+  }
+}

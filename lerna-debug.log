@@ -1,0 +1,14 @@
+0 silly argv { _: [ 'create' ],
+0 silly argv   lernaVersion: '3.16.4',
+0 silly argv   '$0': '..\\..\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   name: 'text-component-2' }
+1 notice cli v3.16.4
+2 verbose rootPath C:\Users\sunil.kashyap\Desktop\version test
+3 error Error: Command failed: git config --get user.email
+3 error
+3 error
+3 error     at makeError (C:\Users\sunil.kashyap\Desktop\version test\node_modules\execa\index.js:174:9)
+3 error     at Function.module.exports.sync (C:\Users\sunil.kashyap\Desktop\version test\node_modules\execa\index.js:338:15)
+3 error     at Object.execSync (C:\Users\sunil.kashyap\Desktop\version test\node_modules\@lerna\child-process\index.js:26:16)
+3 error     at CreateCommand.gitConfig (C:\Users\sunil.kashyap\Desktop\version test\node_modules\@lerna\create\index.js:181:34)
+3 error     at CreateCommand.initialize (C:\Users\sunil.kashyap\Desktop\version test\node_modules\@lerna\create\index.js:107:47)
