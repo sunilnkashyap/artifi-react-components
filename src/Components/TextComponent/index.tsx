@@ -13,7 +13,7 @@ export class TextComponent extends React.Component {
     render() {
       return (
         <Provider store={((window as any).ArtifiStore as Store )}>
-          Version Test
+          Version Test 2
           <TextComponentWrapper />
         </Provider>
       );

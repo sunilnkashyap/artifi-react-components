@@ -1,5 +1,5 @@
 {
-  "name": "text-component",
+  "name": "artifi-react-text-component",
   "version": "0.0.2-alpha.0",
   "description": "Artifi Text Component build with React and Redux State Management",
   "main": "index.tsx",
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/sunilnkashyap/artifi-react-text-component/issues"
   },
-  "homepage": "https://github.com/sunilnkashyap/artifi-react-text-component#readme"
+  "homepage": "https://github.com/sunilnkashyap/artifi-react-text-component#readme",
+  "gitHead": "e5bb61ce38cdd0a9cdec07727b326731ccc0890b"
 }
